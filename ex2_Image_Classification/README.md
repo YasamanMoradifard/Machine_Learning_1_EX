@@ -1,6 +1,8 @@
 # Problem statement
 In the production of electrical drives, a high product quality is needed. As the industry of electric drive production is confronted by trends such as electric mobility and continuing industrial automation, efficient and flexible processes are needed more than ever. With current quality monitoring technology, accurate quality checking is not feasible. Therefore, a quality monitoring system is needed, raising alarm if assembly errors are detected. However, especially in lot-size one production, traditional computer vision systems might reach their limits and cannot be used anymore. we build a smart quality monitoring system for the electric drives production. An already existing visual sensor captures images of the electric motor after assembly. These images show the part from the top, as well from the side perspective. It is now the target to decide whether the motor is fully assembled, or whether one of multiple defects is present. There is data from three different defects available: missing cover, missing screw and not screwed.
 # Outline
-This lab is structured into two main parts. First part, a subset of the problem is analyzed step-by-step. Here, only images from the top view are used and only two of the three defects, the defects *missing cover* and *missing screw* are considered.
+This lab is structured into two main parts: 
 
-In the **second part**, you expand the quality monitoring system to also detect the defect *not screwed*. Therefore, it might be helpful to also consider images showing the parts in their side perspective. For this part, one of the tools and methods introduced in the first part is chosen!
+**First part**, a subset of the problem is analyzed step-by-step. Here, only images from the top view are used and only two of the three defects, the defects *missing cover* and *missing screw* are considered.
+
+**second part**, you expand the quality monitoring system to also detect the defect *not screwed*. Therefore, it might be helpful to also consider images showing the parts in their side perspective. For this part, one of the tools and methods introduced in the first part is chosen!
