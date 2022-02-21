@@ -5,4 +5,4 @@
 
 **First part**, a subset of the problem is analyzed step-by-step. Here, only images from the top view are used and only two of the three defects, the defects *missing cover* and *missing screw* are considered.
 
-**second part**, you expand the quality monitoring system to also detect the defect *not screwed*. Therefore, it might be helpful to also consider images showing the parts in their side perspective. For this part, one of the tools and methods introduced in the first part is chosen!
+**second part**, you expand the quality monitoring system to also detect the defect *not screwed*. Therefore, it might be helpful to also consider images showing the parts in their side perspective. For this part, one of the tools and methods introduced in the first part is chosen!>
